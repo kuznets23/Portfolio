@@ -3,7 +3,8 @@ Your company decided to ride the wave and bought a large service for reading boo
 It contains information about books, publishers, authors, as well as user reviews of books. 
 
 # Data schema
-![image.png](attachment:image.png)
+<img width="918" alt="image" src="https://github.com/kuznets23/Portfolio/assets/146762499/f7de72e5-56bc-48c5-a6f2-b9c791907d68">
+
 
 ## General Conclusion
 1. A total of 818 books were published after January 1, 2000. This information helps us understand the amount of book content available for analysis.
