@@ -1,4 +1,4 @@
-# Portfolio
+# DA_Projects (Python/SQL)
 Welcome to my repository! Here you will find projects developed in Python and SQL, with a focus on working with databases, visualization tools and creating dashboards.
 
 This repository includes the most interesting pet projects and solved test questions from interviews.
