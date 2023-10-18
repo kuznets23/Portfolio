@@ -1,4 +1,11 @@
 # Portfolio
+Welcome to my repository! Here you will find projects developed in Python and SQL, with a focus on working with databases, visualization tools and creating dashboards.
+
+This repository includes the most interesting pet projects and solved test questions from interviews.
+
+Through these projects, I gained hands-on experience working with data and learned how to apply analytical techniques to real-life scenarios. Each project reflects the stages of my learning and improving my skills in using data analytics tools.
+
+
 | Project name | Description | Stack |
 | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |:---------------------------:|
 |[Evaluation and verification of A/B-test results in the online store](https://github.com/kuznets23/Portfolio/tree/main/Evaluation%20and%20verification%20of%20AB-test)| Evaluating the results of AB testing and verifying the correctness of its implementation | A/B testing, Python (Pandas,Matplotlib, Seaborn, Plotly), data visualization. |
