@@ -1,5 +1,5 @@
 ## Project description
-I am a junior analyst at "Unnecessary Things" company. Our company has developed the "Unnecessary Items" application to make it possible to post ads and sell used items for sellers and purchase used items for buyers.
+I am a data analyst at "Unnecessary Things" company. Our company has developed the "Unnecessary Items" application to make it possible to post ads and sell used items for sellers and purchase used items for buyers.
 
 **Research customers** are project managers who are involved in increasing user involvement in this application.
 
