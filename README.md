@@ -1,10 +1,7 @@
 # DA_Projects (Python/SQL)
-Welcome to my repository! Here you will find projects developed in Python and SQL, with a focus on working with databases, visualization tools and creating dashboards.
+Welcome to my repository! Here you will find my pet-projects developed in Python and SQL, with a focus on working with databases, visualization tools and creating dashboards.
 
-This repository includes the most interesting pet projects and solved test questions from interviews.
-
-Through these projects, I gained hands-on experience working with data and learned how to apply analytical techniques to real-life scenarios. Each project reflects the stages of my learning and improving my skills in using data analytics tools.
-
+This repository includes the most interesting pet-projects and solved test questions from interviews.
 
 | Project name | Description | Stack |
 | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |:---------------------------:|
